@@ -1,3 +1,3 @@
-# 2nd Workshop on Machine Learing in HPC Environments
+# 1st Workshop on Scholary Web Mining
 
-Find out more at [MLHPC2016](http://ornlcda.github.io/MLHPC2016).
+Find out more at [SWM2017](http://ornlcda.github.io/SWM2017).
