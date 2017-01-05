@@ -129,10 +129,28 @@ a.brand img {
     width:150px;
 }
 
+.featurette-program-time {
+  extends: featurette-heading;
+  font-size: 23px;
+  font-weight: 200 !important;
+}
 
+.featurette-program-title {
+   extends: featurette-heading;
+   font-size: 23px;
+  font-weight: 200 !important;
+}
 
+.featurette-program-name {
+  extends: featurette-heading;
+  font-size: 21px;
+  color: #999;
+  font-weight: 100 !important;
+}
 
-
+p.program {
+  margin: 20px 0 0 0;
+}
 
 
 /* Site Specific
