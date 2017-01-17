@@ -126,7 +126,7 @@ a.brand img {
 }
 
 .featurette-image {
-    width:150px;
+    width:200px;
 }
 
 .featurette-program-time {
@@ -149,7 +149,7 @@ a.brand img {
 }
 
 p.program {
-  margin: 20px 0 0 0;
+  margin: 20px 0 10px 0;
 }
 
 
@@ -164,13 +164,13 @@ p.program {
 }
 
 .topics-list {
-  list-style-position: inside;
   margin-left: 0px;
-  padding-left: 0px;
+  padding-left: 20px;
 }
 
 .topics-list li {
-  margin-bottom: 5px;
+  margin-left: 0px;
+  padding-left: 10px;
 }
 
 .fine-print {
@@ -223,7 +223,7 @@ p.program {
 
 @media (min-width: 992px) {
   .featurette-heading {
-    margin-top: 90px;
+    /*margin-top: 90px;*/
   }
 
   .navbar-spacing {
